@@ -18,7 +18,7 @@
   "repository": "git+https://github.com/reg-viz/reg-suit.git",
   "license": "MIT",
   "dependencies": {
-    "undici": "^6.0.0"
+    "undici": "^6.23.0"
   },
   "devDependencies": {
     "reg-suit-interface": "^0.14.2",
