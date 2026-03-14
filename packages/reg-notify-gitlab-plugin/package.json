@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "reg-suit-util": "^0.14.3",
-    "undici": "^6.0.0"
+    "undici": "^6.24.0"
   }
 }
