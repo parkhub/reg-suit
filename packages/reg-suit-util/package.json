@@ -33,7 +33,7 @@
     "cli-progress": "^3.8.2",
     "cli-spinner": "^0.2.6",
     "glob": "^7.1.6",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "mime-types": "^2.1.27",
     "mkdirp": "^1.0.4"
   }
